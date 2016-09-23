@@ -1,0 +1,7 @@
+main_presentation.ppt filter=lfs diff=lfs merge=lfs -text
+datasets/Ban[[:space:]]Spreadsheet.csv filter=lfs diff=lfs merge=lfs -text
+datasets/originals filter=lfs diff=lfs merge=lfs -text
+datasets/processed_census_datasets filter=lfs diff=lfs merge=lfs -text
+datasets/the_senate_datasets filter=lfs diff=lfs merge=lfs -text
+datasets/tweepy-master filter=lfs diff=lfs merge=lfs -text
+datasets/Ban[[:space:]]Spreadsheet.csv filter=lfs diff=lfs merge=lfs -text
