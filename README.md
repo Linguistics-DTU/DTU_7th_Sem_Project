@@ -31,4 +31,6 @@ November 2015
 
 - Natural Language ToolKit (NLTK)
 
-- For visualization and big-data analysis - Pandas, NumPy, Bokeh•The Resultof the entire analysis were a couple iPython notebooks with interactive visualizations
+- For visualization and big-data analysis - Pandas, NumPy, Bokeh
+
+### The Result of the entire analysis were a couple iPython notebooks with interactive visualizations
