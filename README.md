@@ -25,7 +25,9 @@ November 2015
 
 * We explored the correlations between the various Census data about a particular stateand the general ”acceptance” of a particular ban.
 
-* The analysis was done using the Twitter API and the Indian Census data of 2011•Gained extensive knowledge of various Python libraries like,
+* The analysis was done using the Twitter API and the Indian Census data of 2011
+
+* Gained extensive knowledge of various Python libraries like,
 
 - For natural language processing 
 
