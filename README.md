@@ -35,4 +35,4 @@ November 2015
 
 - For visualization and big-data analysis - Pandas, NumPy, Bokeh
 
-### The Result of the entire analysis were a couple iPython notebooks with interactive visualizations
+### [The Result of the entire analysis were a couple iPython notebooks with interactive visualizations](https://github.com/Linguistics-DTU/DTU_7th_Sem_Project/blob/master/Jupyter/Main.ipynb)
