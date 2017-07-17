@@ -30,7 +30,7 @@ PEOPLE’S RECEPTION OF THE BANNING SPREE IN INDIA
 
 November 2015
 
-* We explored the correlations between the various Census data about a particular stateand the general ”acceptance” of a particular ban.
+* We explored the correlations between the various Census data about a particular state and the general ”acceptance” of a particular ban.
 
 * The analysis was done using the Twitter API and the Indian Census data of 2011
 
